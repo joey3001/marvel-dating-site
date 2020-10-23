@@ -1,0 +1,20 @@
+#ironman,
+#thor, 
+#hulk {
+  display: none;
+}
+
+body {
+  background-color: #EDF6F9;
+}
+
+h1 {
+  text-align: center;
+  color: #006D77;
+}
+
+img {
+  height: 300px;
+  border: 2px solid #006D77;
+
+}
